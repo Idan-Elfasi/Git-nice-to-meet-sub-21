@@ -1,3 +1,3 @@
  function clickBall(){
-    console.log('You click the Ball')
+    // console.log('You click the Ball')
  }

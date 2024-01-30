@@ -5,10 +5,11 @@ h1{
     color: white;
 }
 .ball{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    margin: auto 0;
+    margin: auto  ;
+    text-align: center;
 
     background-color: aquamarine;
 }
