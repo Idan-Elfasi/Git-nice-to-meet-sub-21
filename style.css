@@ -23,3 +23,21 @@ display: flex;
 
     background-color: aquamarine;
 }
+.ball2{
+    width: 150px;
+    height: 150px;
+
+    font-size: 22px;
+    font-weight:bold ;
+
+    border-radius: 50%;
+    margin: auto  ;
+
+display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition:1;
+
+    background-color: blueviolet;
+}
